@@ -1,9 +1,9 @@
 {
   "expo": {
-    "name": "reactnative",
-    "slug": "ReactNative",
+    "name": "Instagram Stories Clone",
+    "slug": "instaStories-Clone",
     "privacy": "public",
-    "sdkVersion": "36.0.0",
+    "sdkVersion": "35.0.0",
     "platforms": [
       "ios",
       "android",
